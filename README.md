@@ -1,6 +1,6 @@
 # Building-a-Complex-Data-Pipeline-using-Bitcoin-API-in-Kafka
 
-##Stock Data Kafka Implementation
+##Bitcoin Data Kafka Implementation
 
 System Requirements:
 1. Kafka Installed and configured.
